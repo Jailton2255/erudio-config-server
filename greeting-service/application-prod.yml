@@ -8,5 +8,9 @@ management:
         include:
         - '*'
 greeting-service:
+<<<<<<< HEAD
   greeting: "Pronto"
+=======
+  greeting: "Ciao"
+>>>>>>> a796af5abbce799d84475e08c9c25ce44d88a63e
   default-value: "Mondo"
